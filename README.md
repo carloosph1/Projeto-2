@@ -1,2 +1,2 @@
-# aula_JavaScrip
+# Projeto2
 Introdução ao JavaScrip
